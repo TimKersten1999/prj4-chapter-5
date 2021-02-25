@@ -1,0 +1,12 @@
+@charset "utf-8";
+/* CSS Document */
+
+body {
+	background: #6C766D;
+}
+
+.anime {
+	color: pink;
+	font: "Arial";
+	padding: 10px;
+}
